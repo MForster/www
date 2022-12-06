@@ -1,0 +1,36 @@
+title: Dr. Michael Forster
+baseURL: https://michael.forster.pro
+
+languageCode: en-us
+theme: pulp
+
+params:
+  author: Dr. Michael Forster
+  avatar: avatar.jpg
+  description: |
+    Prinicpal Software Engineer at Celonis. <br/>
+    Previously Google, Siemens, NICTA. <br/>
+    PhD from the University of Passau.
+    <a rel='me' href='https://forster.pro/@michael'></a>
+
+menu:
+  main:
+    - identifier: github
+      pre: <i class='fab fa-github fa-lg'></i>
+      url: "https://github.com/MForster"
+
+    - identifier: email
+      pre: <i class='fa fa-envelope fa-lg'></i>
+      url: "mailto:michael@forster.pro"
+
+    - identifier: mastodon
+      pre: <i class='fab fa-mastodon fa-lg'></i>
+      url: "https://forster.pro/@michael"
+
+    - identifier: twitter
+      pre: <i class='fab fa-twitter fa-lg'></i>
+      url: "https://twitter.com/MForsterMuc"
+
+    - identifier: linkedin
+      pre: <i class='fab fa-linkedin fa-lg'></i>
+      url: "https://linkedin.com/in/forstermichael"
