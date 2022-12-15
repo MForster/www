@@ -1,0 +1,11 @@
+# https://wowchemy.com/docs/getting-started/customization/
+
+appearance:
+  theme_day: minimal
+  theme_night: minimal
+
+header:
+  navbar:
+    enable: false
+
+i_am_a_sponsor: true

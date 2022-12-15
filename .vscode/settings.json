@@ -1,0 +1,6 @@
+{
+  "files.exclude": {
+    "resources": true,
+    ".hugo_build.lock": true,
+  }
+}

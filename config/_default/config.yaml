@@ -1,0 +1,18 @@
+# https://gohugo.io/getting-started/configuration/
+
+title: Michael Forster
+baseURL: "https://michael.forster.pro/"
+
+module:
+  imports:
+    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
+
+imaging:
+  resampleFilter: lanczos
+  quality: 95
+
+markup:
+  _merge: deep
+
+security:
+  _merge: deep
