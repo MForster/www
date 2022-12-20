@@ -2,5 +2,17 @@
   "files.exclude": {
     "resources": true,
     ".hugo_build.lock": true,
-  }
+  },
+  "cSpell.enableFiletypes": [
+    "bibtex",
+    "markdown"
+  ],
+  "cSpell.language": "en,de",
+  "cSpell.words": [
+    "Embedder",
+    "Graphlet",
+    "kräftebasierten",
+    "mastersthesis",
+    "Springembedder"
+  ],
 }
