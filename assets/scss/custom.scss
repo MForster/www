@@ -1,0 +1,4 @@
+// Don't crop images in publication banners
+.article-banner {
+  object-fit: contain;
+}

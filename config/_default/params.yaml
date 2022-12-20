@@ -4,8 +4,11 @@ appearance:
   theme_day: minimal
   theme_night: minimal
 
-header:
-  navbar:
-    enable: false
+locale:
+  date_format: 2006-01-02
+  time_format: 15:04
+
+publications:
+  citation_style: mla
 
 i_am_a_sponsor: true
