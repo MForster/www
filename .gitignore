@@ -1,3 +1,4 @@
+/.direnv/
 /.hugo_build.lock
 /assets/jsconfig.json
 /go.sum
