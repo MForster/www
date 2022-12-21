@@ -9,6 +9,87 @@ sections:
     content:
       username: mforster
 
+  - block: experience
+    id: experience
+    design:
+      columns: '2'
+    content:
+      title: Experience
+      date_format: Jan 2006
+      items:
+        - title: Principal Software Engineer
+          company: Celonis
+          company_url: https://www.celonis.com/
+          company_logo: celonis
+          location: Munich, Germany
+          date_start: 2022-07-01
+
+        - title: Senior Staff Software Engineer
+          company: Google
+          company_url: http://www.google.com
+          company_logo: google
+          location: Munich, Germany
+          date_start: 2007-09-01
+          date_end: 2022-06-30
+
+        - title: Consultant
+          company: Siemens
+          company_url: https://siemens.com
+          company_logo: siemens
+          location: Munich, Germany
+          date_start: 2006-05-01
+          date_end: 2007-08-31
+
+        - title: Research Assistant / Teaching Assistant
+          company: University of Passau
+          company_url: https://www.fim.uni-passau.de/
+          company_logo: uni-passau
+          location: Passau, Germany
+          date_start: 2005-12-01
+          date_end: 2006-04-30
+
+        - title: Researcher
+          company: NICTA
+          company_url: https://en.wikipedia.org/wiki/NICTA
+          company_logo: nicta
+          location: Sydney, Australia
+          date_start: 2005-03-01
+          date_end: 2005-11-30
+
+        - title: Research Assistant / Teaching Assistant
+          company: University of Passau
+          company_url: https://www.fim.uni-passau.de/
+          company_logo: uni-passau
+          location: Passau, Germany
+          date_start: 1999-11-01
+          date_end: 2005-03-31
+
+  - block: experience
+    id: education
+    design:
+      columns: '2'
+    content:
+      title: Education
+      date_format: Jan 2006
+      items:
+        - title: PhD in Computer Science
+          company: University of Passau
+          company_url: https://www.fim.uni-passau.de/
+          company_logo: uni-passau
+          location: Passau, Germany
+          date_start: 1999-11-01
+          date_end: 2005-02-28
+          description: "Thesis: [Crossings in Clustered Level Graphs](publication/2004-crossings-clustered-level-graphs)"
+
+        - title: Master in Computer Science / Mathematics
+          company: University of Passau
+          company_url: https://www.fim.uni-passau.de/
+          company_logo: uni-passau
+          location: Passau, Germany
+          date_start: 1999-10-31
+          date_end: 1995-11-01
+          description: "Thesis: [Zeichnen ungerichteter Graphen mit gegebenen Knotengrößen durch ein Springembedder-Verfahren](publication/1999-springembedder-knotengroessen/)"
+
   - block: collection
     id: publications
     content:
@@ -27,4 +108,7 @@ sections:
     design:
       columns: "2"
       view: compact
+
+
+
 ---

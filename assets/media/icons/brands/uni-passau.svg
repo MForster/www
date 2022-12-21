@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.0"
+   width="113.10535"
+   height="77.368164"
+   id="svg3074"
+   sodipodi:docname="uni-passau.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview29"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="5.3933333"
+     inkscape:cx="147.12608"
+     inkscape:cy="38.844252"
+     inkscape:window-width="1917"
+     inkscape:window-height="2093"
+     inkscape:window-x="5760"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3074" />
+  <defs
+     id="defs3076" />
+  <g
+     id="g294"
+     transform="translate(-2.97607,-1.3159125)">
+    <path
+       d="m 56.032707,35.329584 -0.005,-33.9697265 28.71095,10.4248045 v 12.65625 H 87.54627 V 11.71142 L 116.08142,1.3159125 V 72.48779 l -2.87598,-2.87598 V 5.4223575 L 90.422245,13.723139 V 32.766107 H 81.86267 V 13.79638 l -22.958975,-8.33496 0.005,29.628906 -2.875975,0.239258"
+       id="path2956"
+       style="fill:#8a8a8c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25" />
+    <path
+       d="M 99.143057,78.684077 H 115.07079 C 103.25439,67.741692 92.36572,52.155755 110.08545,49.230951 l -1.95802,-0.703125 C 89.816895,51.01806 92.004395,64.914545 99.143057,78.684077"
+       id="path2958"
+       style="fill:#f8971c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25" />
+    <path
+       d="M 25.983882,60.803216 H 42.316895 C 51.618645,46.862787 68.688958,43.415521 90.16357,41.945795 l -1.94825,-0.708008 c -26.2207,0.317383 -51.962888,6.26953 -62.231438,19.565429"
+       id="path2960"
+       style="fill:#f8971c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25" />
+    <path
+       d="M 49.83642,66.735834 H 66.247557 C 68.60107,53.20556 79.47997,46.447748 96.857908,44.396966 L 94.924307,43.698725 C 72.243645,45.686029 53.767082,52.243646 49.83642,66.735834"
+       id="path2962"
+       style="fill:#f8971c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25" />
+    <path
+       d="m 74.147945,72.561028 15.419925,0.122125 c -4.140625,-12.25098 -2.96875,-23.857425 13.88671,-25.89844 l -1.97265,-0.717774 C 83.13232,47.814985 73.181145,58.606001 74.147945,72.561078"
+       id="path2964"
+       style="fill:#f8971c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25" />
+    <path
+       d="M 2.97607,54.816889 C 13.254395,46.149896 45.114745,38.630365 81.252432,38.630365 l 2.167975,0.825195 C 48.71337,39.831537 32.658682,46.374505 19.299307,54.899896 L 2.97607,54.816884"
+       id="path2966"
+       style="fill:#f8971c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25" />
+  </g>
+</svg>

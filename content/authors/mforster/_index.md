@@ -31,8 +31,3 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/forstermichael
 ---
-
-<br/>
-Previously worked for Google, Siemens, NICTA
-
-PhD from the University of Passau
