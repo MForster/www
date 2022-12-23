@@ -17,6 +17,10 @@ categories: [Graph Drawing]
 doi: 10.1007/978-3-540-31843-9_22
 
 url_slides : constrained-crossing-reduction.ppt
+links:
+- name: Slides (PDF)
+  url: constrained-crossing-reduction.ppt.pdf
+
 
 abstract: |
   The one-sided two-level crossing reduction problem is an important problem in

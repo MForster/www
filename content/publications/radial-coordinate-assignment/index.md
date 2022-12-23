@@ -18,6 +18,9 @@ categories: [Graph Drawing]
 
 doi: 10.1007/11533719_41
 url_slides: radial-coordinate-assignment.ppt
+links:
+- name: Slides (PDF)
+  url: radial-coordinate-assignment.ppt.pdf
 
 abstract: |
   We present a simple linear time algorithm for drawing level graphs with a given

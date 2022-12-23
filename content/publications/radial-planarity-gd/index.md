@@ -18,6 +18,9 @@ categories: ['Graph Drawing']
 
 doi: 10.1007/978-3-540-24595-7_37
 url_slides: radial-planarity-gd.ppt
+links:
+- name: Slides (PDF)
+  url: radial-planarity-gd.ppt.pdf
 
 abstract: |
   Every planar graph has a concentric representation based on a breadth first

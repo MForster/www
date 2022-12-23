@@ -12,6 +12,9 @@ categories: [Graph Drawing]
 featured: true
 
 url_slides: crossings-clustered-level-graphs.ppt
+links:
+- name: Slides (PDF)
+  url: crossings-clustered-level-graphs.ppt.pdf
 
 abstract: |
   Clustered graphs are an enhanced graph model with a recursive clustering of the

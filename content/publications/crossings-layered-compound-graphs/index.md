@@ -16,6 +16,9 @@ tags: [Clustered Graphs, Level Graphs, Crossing Reduction]
 
 doi: 10.1007/3-540-36151-0_26
 url_slides: crossings-layered-compound-graphs.ppt
+links:
+- name: Slides (PDF)
+  url: crossings-layered-compound-graphs.ppt.pdf
 
 abstract: |
   We present a new method for the application of 2-layer crossing reduction

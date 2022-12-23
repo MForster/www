@@ -17,6 +17,9 @@ categories: [Graph Drawing]
 
 doi: 10.1007/978-3-540-24618-3_18
 url_slides: clustered-level-planarity.ppt
+links:
+- name: Slides (PDF)
+  url: clustered-level-planarity.ppt.pdf
 
 abstract: |
   Planarity is an important concept in graph drawing. It is generally accepted

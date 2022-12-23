@@ -17,6 +17,9 @@ tags: [Planarity, Level Graphs]
 categories: [Graph Drawing]
 
 url_slides: track-planarity.ppt
+links:
+- name: Slides (PDF)
+  url: track-planarity.ppt.pdf
 
 abstract: |
   A track graph is a graph with its vertex set partitioned into horizontal levels.
