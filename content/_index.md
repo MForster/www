@@ -127,7 +127,4 @@ sections:
     design:
       columns: "2"
       view: compact
-
-
-
 ---
