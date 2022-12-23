@@ -79,7 +79,9 @@ sections:
           location: Passau, Germany
           date_start: 1999-11-01
           date_end: 2005-02-28
-          description: "Thesis: [Crossings in Clustered Level Graphs](publication/2004-crossings-clustered-level-graphs)"
+          description: |
+            Thesis: [Crossings in Clustered Level Graphs](
+              {{< ref "publications/crossings-clustered-level-graphs/" >}})
 
         - title: Master in Computer Science / Mathematics
           company: University of Passau
@@ -88,7 +90,10 @@ sections:
           location: Passau, Germany
           date_start: 1999-10-31
           date_end: 1995-11-01
-          description: "Thesis: [Zeichnen ungerichteter Graphen mit gegebenen Knotengrößen durch ein Springembedder-Verfahren](publication/1999-springembedder-knotengroessen/)"
+          description: |
+            Thesis: [Zeichnen ungerichteter Graphen mit gegebenen Knotengrößen
+            durch ein Springembedder-Verfahren](
+              {{< ref "publications/springembedder-knotengroessen" >}})
 
   - block: collection
     id: posts
