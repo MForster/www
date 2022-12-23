@@ -91,6 +91,25 @@ sections:
           description: "Thesis: [Zeichnen ungerichteter Graphen mit gegebenen Knotengrößen durch ein Springembedder-Verfahren](publication/1999-springembedder-knotengroessen/)"
 
   - block: collection
+    id: posts
+    content:
+      title: Recent Posts
+      subtitle: My random ramblings...
+      count: 1 # TODO: Update this once I have more posts
+      filters:
+        folders:
+          - posts
+      sort_by: 'Date'
+      sort_ascending: false
+      archive:
+        enable: true
+        text: All posts
+        link: posts
+    design:
+      columns: "2"
+      view: compact
+
+  - block: collection
     id: publications
     content:
       title: Featured Publications

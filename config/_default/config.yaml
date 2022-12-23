@@ -9,6 +9,7 @@ module:
 
 permalinks:
   categories: "/category/:slug/"
+  posts: "/post/:slugorfilename/"
   publications: "/publication/:slugorfilename/"
   tags: "/tag/:slug/"
 

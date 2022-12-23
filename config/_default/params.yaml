@@ -4,6 +4,11 @@ appearance:
   theme_day: minimal
   theme_night: minimal
 
+features:
+  syntax_highlighter:
+    theme_light: dracula
+    theme_dark: dracula
+
 locale:
   date_format: 2006-01-02
   time_format: 15:04

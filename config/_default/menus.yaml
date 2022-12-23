@@ -8,6 +8,9 @@ main:
   - name: Education
     url: "#education"
     weight: 30
+  - name: Posts
+    url: posts
+    weight: 40
   - name: Publications
     url: publications
-    weight: 40
+    weight: 50

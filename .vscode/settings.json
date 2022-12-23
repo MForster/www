@@ -16,8 +16,11 @@
     "biopath",
     "Boehringer",
     "booktitle",
+    "dracula",
     "Embedder",
+    "endswith",
     "Graphlet",
+    "HOWTO",
     "inproceedings",
     "Kobourov",
     "kräftebasierten",
@@ -30,7 +33,10 @@
     "Raitner",
     "Silico",
     "Springembedder",
+    "subdirs",
     "techreport",
-    "Wingender"
+    "Wingender",
+    "zipfile",
+    "zippath"
   ],
 }
