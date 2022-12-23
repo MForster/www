@@ -127,4 +127,12 @@ sections:
     design:
       columns: "2"
       view: compact
+
+  - block: tag_cloud
+    content:
+      taxonomy: tags
+      count: 15
+    design:
+      font_size_min: 0.7
+      font_size_max: 1.5
 ---
