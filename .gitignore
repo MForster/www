@@ -1,5 +1,8 @@
-/.direnv/
+/.devenv*
 /.hugo_build.lock
+/.pre-commit-config.yaml
 /assets/jsconfig.json
+/devenv.local.nix
 /go.sum
 /resources/
+/public/
