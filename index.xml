@@ -70,4 +70,373 @@ a larger instance, mostly because the default disk size of 20 GB is not
 enough. Hetzner makes it easy to switch instance types. I&amp;rsquo;ve now switched to
 2vCPUs and 40 GB disk space.
 &lt;/div>
-&lt;/div></description></item><item><title>Crossing Minimization in Extended Level Drawings of Graphs</title><link>https://michael.forster.pro/publication/extended-level-drawings/</link><pubDate>Mon, 01 Feb 2010 00:00:00 +0000</pubDate><guid>https://michael.forster.pro/publication/extended-level-drawings/</guid><description/></item><item><title>Crossing Reduction for Hierarchical Graphs with Intra-Level Edges</title><link>https://michael.forster.pro/publication/crossings-intra-level-edges-edges/</link><pubDate>Sat, 01 Jul 2006 00:00:00 +0000</pubDate><guid>https://michael.forster.pro/publication/crossings-intra-level-edges-edges/</guid><description/></item><item><title>A Radial Adaption of the Sugiyama Framework for Hierarchical Graph Drawing</title><link>https://michael.forster.pro/publication/radial-graph-drawing/</link><pubDate>Sat, 01 Apr 2006 00:00:00 +0000</pubDate><guid>https://michael.forster.pro/publication/radial-graph-drawing/</guid><description/></item><item><title>GEOMI: GEOmetry for maximum insight</title><link>https://michael.forster.pro/publication/geomi/</link><pubDate>Sat, 21 Jan 2006 00:00:00 +0000</pubDate><guid>https://michael.forster.pro/publication/geomi/</guid><description/></item><item><title>Radial Coordinate Assignment for Level Graphs</title><link>https://michael.forster.pro/publication/radial-coordinate-assignment/</link><pubDate>Thu, 04 Aug 2005 00:00:00 +0000</pubDate><guid>https://michael.forster.pro/publication/radial-coordinate-assignment/</guid><description/></item><item><title>Radial Level Planarity Testing and Embedding in Linear Time</title><link>https://michael.forster.pro/publication/radial-planarity-jgaa/</link><pubDate>Wed, 01 Jun 2005 00:00:00 +0000</pubDate><guid>https://michael.forster.pro/publication/radial-planarity-jgaa/</guid><description/></item><item><title>A Fast and Simple Heuristic for Constrained Two-Level Crossing Reduction</title><link>https://michael.forster.pro/publication/constrained-crossing-reduction/</link><pubDate>Thu, 10 Feb 2005 00:00:00 +0000</pubDate><guid>https://michael.forster.pro/publication/constrained-crossing-reduction/</guid><description/></item><item><title>Gravisto: Graph Visualization Toolkit</title><link>https://michael.forster.pro/publication/gravisto/</link><pubDate>Thu, 10 Feb 2005 00:00:00 +0000</pubDate><guid>https://michael.forster.pro/publication/gravisto/</guid><description/></item><item><title>Crossings in Clustered Level Graphs</title><link>https://michael.forster.pro/publication/crossings-clustered-level-graphs/</link><pubDate>Tue, 30 Nov 2004 00:00:00 +0000</pubDate><guid>https://michael.forster.pro/publication/crossings-clustered-level-graphs/</guid><description/></item><item><title>Track Planarity Testing and Embedding</title><link>https://michael.forster.pro/publication/track-planarity/</link><pubDate>Sat, 24 Jan 2004 00:00:00 +0000</pubDate><guid>https://michael.forster.pro/publication/track-planarity/</guid><description/></item><item><title>Radial Level Planarity Testing and Embedding in Linear Time</title><link>https://michael.forster.pro/publication/radial-planarity-gd/</link><pubDate>Tue, 13 Jan 2004 00:00:00 +0000</pubDate><guid>https://michael.forster.pro/publication/radial-planarity-gd/</guid><description/></item><item><title>Clustered Level Planarity</title><link>https://michael.forster.pro/publication/clustered-level-planarity/</link><pubDate>Mon, 22 Dec 2003 00:00:00 +0000</pubDate><guid>https://michael.forster.pro/publication/clustered-level-planarity/</guid><description/></item><item><title>BioPath – Exploration and Visualization of Biochemical Pathways</title><link>https://michael.forster.pro/publication/biopath-book-chapter/</link><pubDate>Wed, 27 Aug 2003 00:00:00 +0000</pubDate><guid>https://michael.forster.pro/publication/biopath-book-chapter/</guid><description/></item><item><title>Radial Level Planarity Testing and Embedding in Linear Time</title><link>https://michael.forster.pro/publication/radial-planarity-tr/</link><pubDate>Sun, 01 Jun 2003 00:00:00 +0000</pubDate><guid>https://michael.forster.pro/publication/radial-planarity-tr/</guid><description/></item><item><title>Applying Crossing Reduction Strategies to Layered Compound Graphs</title><link>https://michael.forster.pro/publication/crossings-layered-compound-graphs/</link><pubDate>Fri, 08 Nov 2002 00:00:00 +0000</pubDate><guid>https://michael.forster.pro/publication/crossings-layered-compound-graphs/</guid><description/></item><item><title>BioPath</title><link>https://michael.forster.pro/publication/biopath-gd/</link><pubDate>Thu, 21 Feb 2002 00:00:00 +0000</pubDate><guid>https://michael.forster.pro/publication/biopath-gd/</guid><description/></item><item><title>The System Architecture of the BioPath System</title><link>https://michael.forster.pro/publication/biopath-isb/</link><pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate><guid>https://michael.forster.pro/publication/biopath-isb/</guid><description/></item><item><title>BioPath – Visualization of Biochemical Pathways</title><link>https://michael.forster.pro/publication/biopath-gcb/</link><pubDate>Sun, 07 Oct 2001 00:00:00 +0000</pubDate><guid>https://michael.forster.pro/publication/biopath-gcb/</guid><description/></item><item><title>Zeichnen ungerichteter Graphen mit gegebenen Knotengrößen durch ein Springembedder-Verfahren</title><link>https://michael.forster.pro/publication/springembedder-knotengroessen/</link><pubDate>Mon, 27 Sep 1999 00:00:00 +0000</pubDate><guid>https://michael.forster.pro/publication/springembedder-knotengroessen/</guid><description/></item></channel></rss>
+&lt;/div></description></item><item><title>Crossing Minimization in Extended Level Drawings of Graphs</title><link>https://michael.forster.pro/publication/extended-level-drawings/</link><pubDate>Mon, 01 Feb 2010 00:00:00 +0000</pubDate><guid>https://michael.forster.pro/publication/extended-level-drawings/</guid><description/></item><item><title>jQuery Chrome Extensions</title><link>https://michael.forster.pro/post/jquery-chrome-extensions/</link><pubDate>Sat, 15 Aug 2009 00:00:00 +0000</pubDate><guid>https://michael.forster.pro/post/jquery-chrome-extensions/</guid><description>&lt;div class="alert alert-warning">
+&lt;div>
+This blog post has been imported from my old Blogger
+blog. It is more than 10 years old and likely horribly out of date. I have not
+updated the content nor fixed any broken links.
+&lt;/div>
+&lt;/div>
+&lt;p>Today I wanted to learn how to write an &lt;a href="http://dev.chromium.org/developers/design-documents/extensions/" target="_blank" rel="noopener">extension for Google
+Chrome&lt;/a>. The
+Chrome extension system is not yet released, but there is alpha support for
+developing extensions. A
+&lt;a href="http://dev.chromium.org/developers/design-documents/extensions/howto" target="_blank" rel="noopener">HOWTO&lt;/a>
+describes what you need to do. This is actually quite easy: Chrome extensions
+are very much like regular web pages. They consist of HTML, CSS, JavaScript and
+images. Some JSON metadata describes the extension that is then
+&lt;a href="http://dev.chromium.org/developers/design-documents/extensions/packaging" target="_blank" rel="noopener">packaged&lt;/a>
+into a &lt;code>*.crx&lt;/code> file.&lt;/p>
+&lt;p>As I don&amp;rsquo;t like raw JavaScript very much, I wondered whether it is possible to
+use my favorite JavaScript library &lt;a href="http://jquery.com/" target="_blank" rel="noopener">jQuery&lt;/a> in Chrome
+extensions. It turned out that this is actually very straight-forward. It
+basically works out-of-the box as you would expect it.&lt;/p>
+&lt;p>I tried to use jQuery in a &lt;a href="http://dev.chromium.org/developers/design-documents/extensions/background-pages" target="_blank" rel="noopener">background
+page&lt;/a>
+as well as in a &lt;a href="http://dev.chromium.org/developers/design-documents/extensions/content-scripts" target="_blank" rel="noopener">content
+script&lt;/a>.
+Here is the &lt;code>manifest.json&lt;/code> file that describes my demo extension:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-json" data-lang="json">&lt;span class="line">&lt;span class="cl">&lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nt">&amp;#34;name&amp;#34;&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="s2">&amp;#34;A jQuery Chrome extension&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nt">&amp;#34;version&amp;#34;&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="s2">&amp;#34;0.1&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nt">&amp;#34;description&amp;#34;&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="s2">&amp;#34;Use jQuery to build Chrome extensions&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nt">&amp;#34;content_scripts&amp;#34;&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="p">[&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nt">&amp;#34;matches&amp;#34;&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="p">[&lt;/span>&lt;span class="s2">&amp;#34;&amp;lt;http://jquery.com/&amp;gt;*&amp;#34;&lt;/span>&lt;span class="p">],&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nt">&amp;#34;js&amp;#34;&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="p">[&lt;/span>&lt;span class="s2">&amp;#34;jquery-1.3.2.js&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="s2">&amp;#34;content.js&amp;#34;&lt;/span>&lt;span class="p">]&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">],&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nt">&amp;#34;background_page&amp;#34;&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="s2">&amp;#34;background.html&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>To use jQuery in my content script &lt;code>content.js&lt;/code>, it was enough to list the stock
+jQuery JavaScript file as the first content script. &lt;code>content.js&lt;/code> then has jQuery
+available:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-javascript" data-lang="javascript">&lt;span class="line">&lt;span class="cl">&lt;span class="nx">$&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s1">&amp;#39;a&amp;#39;&lt;/span>&lt;span class="p">).&lt;/span>&lt;span class="nx">css&lt;/span>&lt;span class="p">({&lt;/span>&lt;span class="s1">&amp;#39;background-color&amp;#39;&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="s1">&amp;#39;yellow&amp;#39;&lt;/span>&lt;span class="p">});&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Using jQuery in the background page is even more straight-forward. Simply embed
+it into &lt;code>background.html&lt;/code> the same way as you would for every other HTML page:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-html" data-lang="html">&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">html&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">head&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">script&lt;/span> &lt;span class="na">src&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#39;jquery-1.3.2.js&amp;#39;&lt;/span>&lt;span class="p">&amp;gt;&amp;lt;/&lt;/span>&lt;span class="nt">script&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">script&lt;/span> &lt;span class="na">src&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#39;background.js&amp;#39;&lt;/span>&lt;span class="p">&amp;gt;&amp;lt;/&lt;/span>&lt;span class="nt">script&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">head&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">html&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>This was extremely easy. I think the Chrome team made the right decision to
+build their extension model on the web page model. Now any web developer can
+start writing Chrome extensions without having to leave their comfort zone.&lt;/p>
+&lt;p>Let me end this post with two disclaimers: While I do work for Google as a
+software engineer, my work is not related to Chrome at all. My interest for
+writing Chrome extensions is purely private. Also, I have not written any large
+Chrome extensions. So, it&amp;rsquo;s easily possible that you will encounter problems
+when using jQuery in a complex use case. YMMV.&lt;/p></description></item><item><title>Embedding cover images in MP3 files for Android, iTunes, iPhone, Windows Media Player, and Windows Explorer</title><link>https://michael.forster.pro/post/mp3-cover-images/</link><pubDate>Thu, 08 Jan 2009 00:00:00 +0000</pubDate><guid>https://michael.forster.pro/post/mp3-cover-images/</guid><description>&lt;div class="alert alert-warning">
+&lt;div>
+This blog post has been imported from my old Blogger
+blog. It is more than 10 years old and likely horribly out of date. I have not
+updated the content nor fixed any broken links.
+&lt;/div>
+&lt;/div>
+&lt;p>This is the continuation of a short &lt;a href="https://michael.forster.pro/post/tag-mp3-files/">series of blog postings&lt;/a> about how I tag my MP3 files. Today I&amp;rsquo;ll share my
+experience in displaying cover art in various media players.&lt;/p>
+&lt;p>I am using two portable players: An &lt;a href="http://www.android.com/" target="_blank" rel="noopener">Android phone&lt;/a> and
+an &lt;a href="http://www.apple.com/iphone" target="_blank" rel="noopener">iPhone&lt;/a>. On my laptop I usually use
+&lt;a href="http://www.apple.com/itunes" target="_blank" rel="noopener">iTunes&lt;/a>, but sometimes I fall back to &lt;a href="http://www.microsoft.com/windows/windowsmedia/player/11" target="_blank" rel="noopener">Windows
+Media Player&lt;/a> because
+of its fast startup time. I keep MP3 files in individual folders per album, so I
+also want the thumbnail view of Windows explorer to show the cover art.&lt;/p>
+&lt;p>Let&amp;rsquo;s start with a short summary of what works for me: Embed cover images into
+the first track of every album, and additionally save them as &lt;code>Folder.jpg&lt;/code> files
+in the album directories. See below for the long story.&lt;/p>
+&lt;h2 id="analysis-of-different-players">Analysis of different players&lt;/h2>
+&lt;p>There are various ways of attaching cover art to MP3 files, and every player
+that I use seems to do it slightly differently. Here is what I found out:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>iTunes&lt;/strong> stores cover images in its own proprietary storage in some ITC2
+format that I don&amp;rsquo;t know anything about
+(&lt;code>My Documents\\My Music\\iTunes\\Album Artwork\\Download\\6118F104927B998E\\10\\10\\05\\6118F104927B998E-6DBB7171FCCCC5AA.itc2&lt;/code>).
+Fortunately, it also shows images that are included in the MP3 files.&lt;/li>
+&lt;li>The &lt;strong>iPhone&lt;/strong> seems to display whatever iTunes displays.&lt;/li>
+&lt;li>&lt;strong>Android&lt;/strong> also works fine with cover images embedded into the MP3 files.&lt;/li>
+&lt;li>&lt;strong>Windows Explorer&lt;/strong> expects cover art in &lt;code>Folder.jpg&lt;/code> files. It does not show
+embedded images.&lt;/li>
+&lt;li>&lt;strong>Windows Media Player&lt;/strong> seems to keep cover art in a whole bunch of different
+hidden files like &lt;code>Folder.jpg&lt;/code>, &lt;code>AlbumArtSmall.jpg&lt;/code>,
+&lt;code>AlbumArt\_{SOME\_GUID}\_Large.jpg&lt;/code>, etc. It does read covers from the MP3 files
+however. If you import a MP3 file into the Windows Media Player library it
+automatically generates all files. This includes Folder.jpg, which is needed
+for Windows Explorer&lt;/li>
+&lt;/ul>
+&lt;p>In summary, all of my players show images that are embedded in MP3 files. It
+seems to be enough to embed a cover image into the first track of an album.
+Windows Explorer needs Folder.jpg, which is easiest to create by importing files
+into Windows Media Player.&lt;/p>
+&lt;p>Caveat: Windows Media Player resizes &lt;code>Folder.jpg&lt;/code> files to 200x200 pixels without
+asking, so don&amp;rsquo;t use this file as your primary storage. I want my covers to be
+600x600 pixels, which seems to be a good compromise between file size and high
+quality (e. g. for iTunes cover flow). Because of that I have an additional
+&lt;code>Cover.jpg&lt;/code> file in all of my album directories. This is not needed for any
+player, but I like to have it there for scripts that I use, e. g. to generate
+listings of my files.&lt;/p>
+&lt;h2 id="getting-and-embedding-cover-images-with-itunes">Getting and embedding cover images with iTunes&lt;/h2>
+&lt;p>Before you can embed cover art into an MP3 file you need to have it. Of course
+you can scan them yourself, but I find it much easier to use iTunes, which has
+many album covers in a very high quality.&lt;/p>
+&lt;p>Here is what you need to do: Import the album MP3s into the iTunes library and
+choose &amp;ldquo;Get Album Artwork&amp;rdquo; in the album context menu:&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Get Album Artwork" srcset="
+/post/mp3-cover-images/get-album-artwork_hu74a2d26623800d68a9af1d1eb838d7b6_19356_cb0b941843c398c47a54d497a6cc4986.webp 400w,
+/post/mp3-cover-images/get-album-artwork_hu74a2d26623800d68a9af1d1eb838d7b6_19356_d0752d1c92b3bd67d83bb626156decdc.webp 760w,
+/post/mp3-cover-images/get-album-artwork_hu74a2d26623800d68a9af1d1eb838d7b6_19356_1200x1200_fit_q95_h2_lanczos_3.webp 1200w"
+src="https://michael.forster.pro/post/mp3-cover-images/get-album-artwork_hu74a2d26623800d68a9af1d1eb838d7b6_19356_cb0b941843c398c47a54d497a6cc4986.webp"
+width="289"
+height="339"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>Sometimes iTunes does not have a matching cover - then you are back to scanning
+yourself. But more often than not you get a cover image. As mentioned above,
+iTunes stores it in its own proprietary format, but fortunately it is quite easy
+to extract. Open the album and right-click the first track, and then &amp;ldquo;Get Info&amp;rdquo;:&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Get Info" srcset="
+/post/mp3-cover-images/get-info_hu6ace2f05cb39c75509b2c772630f8661_52228_fde06106535a7431cc932c1e5d78632d.webp 400w,
+/post/mp3-cover-images/get-info_hu6ace2f05cb39c75509b2c772630f8661_52228_b9eb93b605350e944d1133a4245a3a39.webp 760w,
+/post/mp3-cover-images/get-info_hu6ace2f05cb39c75509b2c772630f8661_52228_1200x1200_fit_q95_h2_lanczos_3.webp 1200w"
+src="https://michael.forster.pro/post/mp3-cover-images/get-info_hu6ace2f05cb39c75509b2c772630f8661_52228_fde06106535a7431cc932c1e5d78632d.webp"
+width="562"
+height="374"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>In the dialog that opens go to the &amp;ldquo;Artwork&amp;rdquo; tab, select the image and copy it
+with Ctrl-C or using the context menu. Then immediately paste it back using the
+context menu or Ctrl-V. Click OK and iTunes saves the image directly into the
+MP3 file.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Copy" srcset="
+/post/mp3-cover-images/copy_huf4ade604aef5a3604ece68981ceb3733_28413_14de2cf5b90b4af045aeaeca7ce61724.webp 400w,
+/post/mp3-cover-images/copy_huf4ade604aef5a3604ece68981ceb3733_28413_93572c1a31a3125506ae276c4113e53c.webp 760w,
+/post/mp3-cover-images/copy_huf4ade604aef5a3604ece68981ceb3733_28413_1200x1200_fit_q95_h2_lanczos_3.webp 1200w"
+src="https://michael.forster.pro/post/mp3-cover-images/copy_huf4ade604aef5a3604ece68981ceb3733_28413_14de2cf5b90b4af045aeaeca7ce61724.webp"
+width="512"
+height="439"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>It is worth mentioning, that you can of course also paste the copied image into
+your favorite graphics editor, or straight into an Explorer window. The latter
+creates a file &lt;code>image 1.bmp&lt;/code>, which you can then convert into a JPEG, e.g., to
+use it as &lt;code>Folder.jpg&lt;/code>&lt;/p>
+&lt;p>If you don&amp;rsquo;t want to create Folder.jpg yourself, simply import the folder with
+your MP3 files (and with the embedded cover) into the Windows Media Player
+library. It will then generate &lt;code>Folder.jpg&lt;/code> for you.&lt;/p></description></item><item><title>How to tag MP3 files for Android, iTunes, iPhone, and Windows Explorer</title><link>https://michael.forster.pro/post/tag-mp3-files/</link><pubDate>Wed, 31 Dec 2008 00:00:00 +0000</pubDate><guid>https://michael.forster.pro/post/tag-mp3-files/</guid><description>&lt;div class="alert alert-warning">
+&lt;div>
+This blog post has been imported from my old Blogger
+blog. It is more than 10 years old and likely horribly out of date. I have not
+updated the content nor fixed any broken links.
+&lt;/div>
+&lt;/div>
+&lt;p>Being a proud owner of a brand-new &lt;a href="http://www.android.com/" target="_blank" rel="noopener">Android&lt;/a> phone and
+having a couple of weeks of vacation over the holidays, I decided that this is
+the perfect time to reorganize my digital music collection and to rip the last
+few CDs for which I had not had the time before.&lt;/p>
+&lt;p>I had to go through some trial-and-error experiments to find a tagging scheme
+that works for me, so I figured that my results might be interesting for others
+as well. I&amp;rsquo;m going to try to make a mini-series of blog postings that explain
+how I tag my MP3 files. I do not claim that this is the one and only tagging
+scheme, but it works well for me. If you use a different tagging scheme that
+works better for you, please let me know.&lt;/p>
+&lt;h2 id="tagging-across-devices-players-and-media-types">Tagging across devices, players, and media types&lt;/h2>
+&lt;p>Being me, I want my music to be tagged perfectly for the handful of devices and
+programs that I use. This includes my &lt;a href="http://www.apple.com/iphone/" target="_blank" rel="noopener">iPhone&lt;/a>
+that I recently used mostly as a media player and now also my Android phone. On
+Windows my main audio player is &lt;a href="http://www.apple.com/itunes/" target="_blank" rel="noopener">iTunes&lt;/a>, but
+sporadically I also use &lt;a href="http://www.microsoft.com/windows/windowsmedia/de/player/11/default.aspx" target="_blank" rel="noopener">Windows Media
+Player&lt;/a>,
+mainly because it starts up much faster. Finally, I want to use the capability
+of the Windows Explorer to show the track titles when viewing tracks in the file
+system.&lt;/p>
+&lt;p>Tagging MP3s perfectly across these players was more challenging than I
+anticipated. It is very important to use the right &lt;a href="http://www.id3.org/" target="_blank" rel="noopener">ID3
+tags&lt;/a>, and until recently, I wasn&amp;rsquo;t even aware of some of
+them. Here is my list of features of a &amp;ldquo;perfect&amp;rdquo; tagging scheme:&lt;/p>
+&lt;ol>
+&lt;li>Files from the same disc (set) should be be recognized as such. If not tagged
+correctly, iTunes (and other players) show tracks from the same CD as
+belonging to multiple CDs. This happens mostly for compilations. See below
+for the solution.&lt;/li>
+&lt;li>Files and folders should show cover art in high quality. I want to see my
+cover art when playing a song, when using iPhone/iTunes cover flow, and as
+thumbnails in Windows Explorer.&lt;/li>
+&lt;li>The files should play in the correct order. This seems trivial, but
+unfortunately it isn&amp;rsquo;t.&lt;/li>
+&lt;/ol>
+&lt;p>Getting the tagging right is not made easier by the quite diverse collection of
+media types in my collection. I have albums of one artist, compilations from
+multiple artists, audio books, ballroom dance music, comedy discs, movie sound
+tracks, musicals, and so on. I also have a number of single MP3 files of an old
+collection of chart samplers that I didn&amp;rsquo;t want to keep in their entirety.&lt;/p>
+&lt;h2 id="getting-compilations-recognized-as-single-discs">Getting compilations recognized as single discs&lt;/h2>
+&lt;p>For today, I thought, I&amp;rsquo;d get started with how to get single discs recognized as
+single discs. Here is a ballroom dancing album that contains tracks from various
+artists:&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Example album" srcset="
+/post/tag-mp3-files/1_huc08146e41c0a644fc52cba41ce83ac04_62993_0ba598d190d929bcee722163c3360044.webp 400w,
+/post/tag-mp3-files/1_huc08146e41c0a644fc52cba41ce83ac04_62993_c60b67dea06b42aca9947b5ac5e4d55c.webp 760w,
+/post/tag-mp3-files/1_huc08146e41c0a644fc52cba41ce83ac04_62993_1200x1200_fit_q95_h2_lanczos_3.webp 1200w"
+src="https://michael.forster.pro/post/tag-mp3-files/1_huc08146e41c0a644fc52cba41ce83ac04_62993_0ba598d190d929bcee722163c3360044.webp"
+width="546"
+height="323"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>Clearly, every track is labeled with the same album name, so one might expect
+that iTunes recognizes the tracks as belonging to the same album. Unfortunately,
+this is not the case. Here is the result:&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="iTunes splits the album" srcset="
+/post/tag-mp3-files/2_hu686f56725f44076988d7ad7dddad4fb7_28107_72e1c6fbc34f400e5ba8c81cfb7d6d6b.webp 400w,
+/post/tag-mp3-files/2_hu686f56725f44076988d7ad7dddad4fb7_28107_c51040b30878e869e76f306636cb5b8c.webp 760w,
+/post/tag-mp3-files/2_hu686f56725f44076988d7ad7dddad4fb7_28107_1200x1200_fit_q95_h2_lanczos_3.webp 1200w"
+src="https://michael.forster.pro/post/tag-mp3-files/2_hu686f56725f44076988d7ad7dddad4fb7_28107_72e1c6fbc34f400e5ba8c81cfb7d6d6b.webp"
+width="446"
+height="330"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>iTunes only recognized files as belonging to the same album if they also are
+from the same artist. Fortunately, there is a simple way to make iTunes
+understand that this is indeed only one album. Just select all tracks, right
+click, and select &amp;ldquo;Get Info&amp;rdquo; in the context menu. Then edit the &amp;ldquo;Album Artist&amp;rdquo;
+tag to have the same value for all tracks. I usually choose &amp;ldquo;Various&amp;rdquo;, sometimes
+&amp;ldquo;Soundtrack&amp;rdquo; or similar. The album artist field is also useful for albums of a
+single artist &amp;ldquo;Somebody&amp;rdquo; where individual tracks are from &amp;ldquo;Somebody feat.
+Somebody Else&amp;rdquo;.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Configure &amp;amp;ldquo;Album Artist&amp;amp;rdquo;" srcset="
+/post/tag-mp3-files/3_hu1d79a1f2f9f329075aca33ddd95da279_27496_eb021a9d65fb5d9f0540c2b73a270006.webp 400w,
+/post/tag-mp3-files/3_hu1d79a1f2f9f329075aca33ddd95da279_27496_899f19d4bb28cfe08f4d9794fba756db.webp 760w,
+/post/tag-mp3-files/3_hu1d79a1f2f9f329075aca33ddd95da279_27496_1200x1200_fit_q95_h2_lanczos_3.webp 1200w"
+src="https://michael.forster.pro/post/tag-mp3-files/3_hu1d79a1f2f9f329075aca33ddd95da279_27496_eb021a9d65fb5d9f0540c2b73a270006.webp"
+width="526"
+height="388"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>I usually do not edit ID3 tags in iTunes. There are quite some decent ID3
+editors out there. My favorite one is &lt;a href="http://www.id3-tagit.de/" target="_blank" rel="noopener">ID3-TagIT&lt;/a>.
+Unfortunately it is not developed any more, but it is still available for
+download from several download archives. Here is how I enter the same
+information in the &amp;ldquo;Detailed Information&amp;rdquo; editor:&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="ID3-TagIT &amp;amp;ldquo;Detailed Information&amp;amp;rdquo;" srcset="
+/post/tag-mp3-files/4_hu4e8e826636ee9c8c9741f73690d97a36_27391_5562428c6181ad67ec8c6ff02e39ab20.webp 400w,
+/post/tag-mp3-files/4_hu4e8e826636ee9c8c9741f73690d97a36_27391_5ff5dd5a70eaaff7ef8dfc0f99573e27.webp 760w,
+/post/tag-mp3-files/4_hu4e8e826636ee9c8c9741f73690d97a36_27391_1200x1200_fit_q95_h2_lanczos_3.webp 1200w"
+src="https://michael.forster.pro/post/tag-mp3-files/4_hu4e8e826636ee9c8c9741f73690d97a36_27391_5562428c6181ad67ec8c6ff02e39ab20.webp"
+width="513"
+height="245"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>Technically, the &amp;ldquo;Album Artist&amp;rdquo; information is stored in the &amp;lsquo;TPE2&amp;rsquo; ID3 frame
+that is &lt;a href="http://www.id3.org/id3v2.4.0-frames" target="_blank" rel="noopener">defined&lt;/a> as follows: “The
+&amp;lsquo;Band/Orchestra/Accompaniment&amp;rsquo; frame is used for additional information about
+the performers in the recording.” Arguably, this definition does not quite match
+what we use it for, but all players seem to use it as the &amp;ldquo;album artist&amp;rdquo; as
+intended.&lt;/p>
+&lt;p>Let me know if this explanation was helpful for you. Check back later for other
+topics I&amp;rsquo;d like to write about in future postings: Which ID3 version(s) to use,
+how to &lt;a href="https://michael.forster.pro/post/mp3-cover-images/">include cover art&lt;/a>, how to handle
+sets of two or more discs, audio books, and what else comes to my mind until
+then. Let&amp;rsquo;s hope that I find the time.&lt;/p></description></item><item><title>View Android Source Code in Eclipse</title><link>https://michael.forster.pro/post/android-source-eclipse/</link><pubDate>Sat, 20 Dec 2008 00:00:00 +0000</pubDate><guid>https://michael.forster.pro/post/android-source-eclipse/</guid><description>&lt;div class="alert alert-warning">
+&lt;div>
+This blog post has been imported from my old Blogger
+blog. It is more than 10 years old and likely horribly out of date. I have not
+updated the content nor fixed any broken links.
+&lt;/div>
+&lt;/div>
+&lt;p>Recently, I have been hacking around with &lt;a href="http://www.android.com/" target="_blank" rel="noopener">Android&lt;/a> a
+lot, and I think it&amp;rsquo;s awesome.&lt;/p>
+&lt;p>Unfortunately, the &lt;a href="http://code.google.com/android/" target="_blank" rel="noopener">Android SDK&lt;/a> does not come
+with source code, and sometimes the
+&lt;a href="http://code.google.com/android/documentation.html" target="_blank" rel="noopener">docs&lt;/a> are not so great, yet.
+Being an open source project, the &lt;a href="http://source.android.com/" target="_blank" rel="noopener">Android sources&lt;/a>
+are available online, but they are not very easy to access from Eclipse. For
+one, the source files are sometimes difficult to find as they are distributed
+over many individual Git &lt;a href="http://android.git.kernel.org/" target="_blank" rel="noopener">repositories&lt;/a>, and
+then I am not always online.&lt;/p>
+&lt;p>Integrating source files into Eclipse is usually quite easy, but the Android
+Eclipse plugin
+(&lt;a href="http://code.google.com/android/intro/installing.html#installingplugin" target="_blank" rel="noopener">ADT&lt;/a>)
+does not allow to modify the Java Source Attachment of android.jar in the
+Android Library. Fortunately, you only have to find out what the default
+location for source code is. Eric Burke nicely describes &lt;a href="http://stuffthathappens.com/blog/2008/11/01/browsing-android-source-in-eclipse/" target="_blank" rel="noopener">how to find that
+out.&lt;/a>&lt;/p>
+&lt;p>Long story short: Android source code needs to be placed in a &lt;code>sources&lt;/code>
+subdirectory of the Android SDK. Here is what you need to do:&lt;/p>
+&lt;ol>
+&lt;li>&lt;a href="http://source.android.com/download/" target="_blank" rel="noopener">Get the Android source code&lt;/a> (&lt;a href="http://source.android.com/download/using-repo#TOC-Task-reference" target="_blank" rel="noopener">install
+repo&lt;/a>, repo
+init, repo sync)&lt;/li>
+&lt;li>Move all Java sources into a &lt;code>sources&lt;/code> subdirectory of the Android SDK&lt;/li>
+&lt;/ol>
+&lt;p>Step 2 sounds easier than it is. There are a lot of Java files in the Android
+sources, and they are sprinkled all over the place. Eclipse, however, needs the
+source files in a standard Java source directory structure: The path of a source
+file needs to match its package name. To simplify this task, I have written a
+short Python script that recursively searches for Java files and packs them into
+a ZIP file. Unpack that source file into a &lt;code>sources&lt;/code> subdirectory of the Android
+SDK. Enjoy:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="kn">from&lt;/span> \&lt;span class="n">_&lt;/span>\&lt;span class="n">_future&lt;/span>\&lt;span class="n">_&lt;/span>\&lt;span class="n">_&lt;/span> &lt;span class="kn">import&lt;/span> &lt;span class="nn">with&lt;/span>\&lt;span class="n">_statement&lt;/span> &lt;span class="c1"># for Python &amp;lt; 2.6&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kn">import&lt;/span> &lt;span class="nn">os&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kn">import&lt;/span> &lt;span class="nn">re&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kn">import&lt;/span> &lt;span class="nn">zipfile&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># open a zip file&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">DST&lt;/span>\&lt;span class="n">_FILE&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="s1">&amp;#39;sources.zip&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">if&lt;/span> &lt;span class="n">os&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">path&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">exists&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">DST&lt;/span>\&lt;span class="n">_FILE&lt;/span>&lt;span class="p">):&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">print&lt;/span> &lt;span class="n">DST&lt;/span>\&lt;span class="n">_FILE&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="s2">&amp;#34;already exists&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">exit&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="mi">1&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">zip&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">zipfile&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">ZipFile&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">DST&lt;/span>\&lt;span class="n">_FILE&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="s1">&amp;#39;w&amp;#39;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">zipfile&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">ZIP&lt;/span>\&lt;span class="n">_DEFLATED&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># some files are duplicated, copy them only once&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">written&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="p">{}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># iterate over all Java files&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">for&lt;/span> &lt;span class="nb">dir&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">subdirs&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">files&lt;/span> &lt;span class="ow">in&lt;/span> &lt;span class="n">os&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">walk&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s1">&amp;#39;.&amp;#39;&lt;/span>&lt;span class="p">):&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">for&lt;/span> &lt;span class="n">file&lt;/span> &lt;span class="ow">in&lt;/span> &lt;span class="n">files&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span> &lt;span class="n">file&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">endswith&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s1">&amp;#39;.java&amp;#39;&lt;/span>&lt;span class="p">):&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1"># search package name&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">path&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">os&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">path&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">join&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nb">dir&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">file&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">with&lt;/span> &lt;span class="nb">open&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">path&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="k">as&lt;/span> &lt;span class="n">f&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">for&lt;/span> &lt;span class="n">line&lt;/span> &lt;span class="ow">in&lt;/span> &lt;span class="n">f&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">match&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">re&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">match&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="sa">r&lt;/span>&lt;span class="s1">&amp;#39;&lt;/span>&lt;span class="se">\\&lt;/span>&lt;span class="s1">s\*package&lt;/span>&lt;span class="se">\\&lt;/span>&lt;span class="s1">s+(\[a-zA-Z0-9&lt;/span>&lt;span class="se">\\&lt;/span>&lt;span class="s1">.\_\]+);&amp;#39;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">line&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span> &lt;span class="n">match&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1"># copy source into the zip file using the package as path&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">zippath&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">match&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">group&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="mi">1&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">replace&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s1">&amp;#39;.&amp;#39;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="s1">&amp;#39;/&amp;#39;&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="o">+&lt;/span> &lt;span class="s1">&amp;#39;/&amp;#39;&lt;/span> &lt;span class="o">+&lt;/span> &lt;span class="n">file&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span> &lt;span class="n">zippath&lt;/span> &lt;span class="ow">not&lt;/span> &lt;span class="ow">in&lt;/span> &lt;span class="n">written&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">written&lt;/span>\&lt;span class="p">[&lt;/span>&lt;span class="n">zippath&lt;/span>\&lt;span class="p">]&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="mi">1&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">zip&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">write&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">path&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">zippath&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">break&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">zip&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">close&lt;/span>&lt;span class="p">()&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>Crossing Reduction for Hierarchical Graphs with Intra-Level Edges</title><link>https://michael.forster.pro/publication/crossings-intra-level-edges-edges/</link><pubDate>Sat, 01 Jul 2006 00:00:00 +0000</pubDate><guid>https://michael.forster.pro/publication/crossings-intra-level-edges-edges/</guid><description/></item><item><title>A Radial Adaption of the Sugiyama Framework for Hierarchical Graph Drawing</title><link>https://michael.forster.pro/publication/radial-graph-drawing/</link><pubDate>Sat, 01 Apr 2006 00:00:00 +0000</pubDate><guid>https://michael.forster.pro/publication/radial-graph-drawing/</guid><description/></item><item><title>GEOMI: GEOmetry for maximum insight</title><link>https://michael.forster.pro/publication/geomi/</link><pubDate>Sat, 21 Jan 2006 00:00:00 +0000</pubDate><guid>https://michael.forster.pro/publication/geomi/</guid><description/></item><item><title>Radial Coordinate Assignment for Level Graphs</title><link>https://michael.forster.pro/publication/radial-coordinate-assignment/</link><pubDate>Thu, 04 Aug 2005 00:00:00 +0000</pubDate><guid>https://michael.forster.pro/publication/radial-coordinate-assignment/</guid><description/></item><item><title>Radial Level Planarity Testing and Embedding in Linear Time</title><link>https://michael.forster.pro/publication/radial-planarity-jgaa/</link><pubDate>Wed, 01 Jun 2005 00:00:00 +0000</pubDate><guid>https://michael.forster.pro/publication/radial-planarity-jgaa/</guid><description/></item><item><title>A Fast and Simple Heuristic for Constrained Two-Level Crossing Reduction</title><link>https://michael.forster.pro/publication/constrained-crossing-reduction/</link><pubDate>Thu, 10 Feb 2005 00:00:00 +0000</pubDate><guid>https://michael.forster.pro/publication/constrained-crossing-reduction/</guid><description/></item><item><title>Gravisto: Graph Visualization Toolkit</title><link>https://michael.forster.pro/publication/gravisto/</link><pubDate>Thu, 10 Feb 2005 00:00:00 +0000</pubDate><guid>https://michael.forster.pro/publication/gravisto/</guid><description/></item><item><title>Crossings in Clustered Level Graphs</title><link>https://michael.forster.pro/publication/crossings-clustered-level-graphs/</link><pubDate>Tue, 30 Nov 2004 00:00:00 +0000</pubDate><guid>https://michael.forster.pro/publication/crossings-clustered-level-graphs/</guid><description/></item><item><title>Track Planarity Testing and Embedding</title><link>https://michael.forster.pro/publication/track-planarity/</link><pubDate>Sat, 24 Jan 2004 00:00:00 +0000</pubDate><guid>https://michael.forster.pro/publication/track-planarity/</guid><description/></item><item><title>Radial Level Planarity Testing and Embedding in Linear Time</title><link>https://michael.forster.pro/publication/radial-planarity-gd/</link><pubDate>Tue, 13 Jan 2004 00:00:00 +0000</pubDate><guid>https://michael.forster.pro/publication/radial-planarity-gd/</guid><description/></item><item><title>Clustered Level Planarity</title><link>https://michael.forster.pro/publication/clustered-level-planarity/</link><pubDate>Mon, 22 Dec 2003 00:00:00 +0000</pubDate><guid>https://michael.forster.pro/publication/clustered-level-planarity/</guid><description/></item><item><title>BioPath – Exploration and Visualization of Biochemical Pathways</title><link>https://michael.forster.pro/publication/biopath-book-chapter/</link><pubDate>Wed, 27 Aug 2003 00:00:00 +0000</pubDate><guid>https://michael.forster.pro/publication/biopath-book-chapter/</guid><description/></item><item><title>Radial Level Planarity Testing and Embedding in Linear Time</title><link>https://michael.forster.pro/publication/radial-planarity-tr/</link><pubDate>Sun, 01 Jun 2003 00:00:00 +0000</pubDate><guid>https://michael.forster.pro/publication/radial-planarity-tr/</guid><description/></item><item><title>Applying Crossing Reduction Strategies to Layered Compound Graphs</title><link>https://michael.forster.pro/publication/crossings-layered-compound-graphs/</link><pubDate>Fri, 08 Nov 2002 00:00:00 +0000</pubDate><guid>https://michael.forster.pro/publication/crossings-layered-compound-graphs/</guid><description/></item><item><title>BioPath</title><link>https://michael.forster.pro/publication/biopath-gd/</link><pubDate>Thu, 21 Feb 2002 00:00:00 +0000</pubDate><guid>https://michael.forster.pro/publication/biopath-gd/</guid><description/></item><item><title>The System Architecture of the BioPath System</title><link>https://michael.forster.pro/publication/biopath-isb/</link><pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate><guid>https://michael.forster.pro/publication/biopath-isb/</guid><description/></item><item><title>BioPath – Visualization of Biochemical Pathways</title><link>https://michael.forster.pro/publication/biopath-gcb/</link><pubDate>Sun, 07 Oct 2001 00:00:00 +0000</pubDate><guid>https://michael.forster.pro/publication/biopath-gcb/</guid><description/></item><item><title>Zeichnen ungerichteter Graphen mit gegebenen Knotengrößen durch ein Springembedder-Verfahren</title><link>https://michael.forster.pro/publication/springembedder-knotengroessen/</link><pubDate>Mon, 27 Sep 1999 00:00:00 +0000</pubDate><guid>https://michael.forster.pro/publication/springembedder-knotengroessen/</guid><description/></item></channel></rss>
