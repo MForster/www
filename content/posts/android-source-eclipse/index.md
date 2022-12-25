@@ -3,7 +3,6 @@ title: View Android Source Code in Eclipse
 date: 2008-12-20
 
 tags: [Android, Eclipse]
-categories: [Blog]
 ---
 
 {{% callout warning %}} This blog post has been imported from my old Blogger

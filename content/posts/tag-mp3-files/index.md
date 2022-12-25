@@ -3,7 +3,6 @@ title: How to tag MP3 files for Android, iTunes, iPhone, and Windows Explorer
 date: 2008-12-31
 
 tags: [MP3, Android]
-categories: [Blog]
 ---
 
 {{% callout warning %}} This blog post has been imported from my old Blogger

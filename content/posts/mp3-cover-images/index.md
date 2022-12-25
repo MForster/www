@@ -3,7 +3,6 @@ title: Embedding cover images in MP3 files for Android, iTunes, iPhone, Windows 
 date: 2009-01-08
 
 tags: [MP3, Android]
-categories: [Blog]
 ---
 
 {{% callout warning %}} This blog post has been imported from my old Blogger

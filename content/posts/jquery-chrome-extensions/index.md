@@ -3,7 +3,6 @@ title: jQuery Chrome Extensions
 date: 2009-08-15
 
 tags: [jQuery, Chrome Extensions]
-categories: [Blog]
 ---
 
 {{% callout warning %}} This blog post has been imported from my old Blogger

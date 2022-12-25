@@ -3,7 +3,6 @@ title: Hosting my own Mastodon instance
 date: 2022-12-06
 
 tags: [Mastodon, NixOS, System Administration]
-categories: [Blog]
 
 mastodon:
   username: michael
