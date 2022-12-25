@@ -1,0 +1,4 @@
+---
+cascade:
+  commentable: true
+---

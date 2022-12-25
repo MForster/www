@@ -8,6 +8,8 @@ features:
   syntax_highlighter:
     theme_light: dracula
     theme_dark: dracula
+  comment:
+    provider: mastodon
 
 locale:
   date_format: 2006-01-02

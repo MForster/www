@@ -5,11 +5,10 @@ date: 2022-12-06
 tags: [Mastodon, NixOS, System Administration]
 categories: [Blog]
 
-links:
-  - icon_pack: fab
-    icon: mastodon
-    name: Discuss
-    url: https://forster.pro/@michael/109468002025514664
+mastodon:
+  username: michael
+  host: forster.pro
+  id: 109563569792682212
 ---
 
 Here are a few thoughts about self-hosting my own

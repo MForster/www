@@ -1,0 +1,126 @@
+{{ with .Params.mastodon }}
+
+<h2>Comments</h2>
+
+<div id="mastodon-comments" />
+<noscript>
+  <p>Comments are only shown if JavaScript is enabled.</p>
+</noscript>
+</div>
+
+<p>
+  You can comment by replying to
+  <a href="https://{{ .host }}/@{{ .username }}/{{ .id }}">this post</a>
+  on Mastodon:
+  <iframe class="mastodon-embed" src="https://{{ .host }}/@{{ .username }}/{{ .id }}/embed"></iframe>
+</p>
+
+<script src="https://{{ .host }}/embed.js" async="async"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/2.4.1/purify.min.js"
+  integrity="sha512-uHOKtSfJWScGmyyFr2O2+efpDx2nhwHU2v7MVeptzZoiC7bdF6Ny/CmZhN2AwIK1oCFiVQQ5DA/L9FSzyPNu6Q=="
+  crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.4/moment.min.js"
+  integrity="sha512-+H4iLjY3JsKiF2V6N366in5IQHj2uEsGV7Pp/GRcm0fn76aPAk5V8xB6n8fQhhSonTqTXs/klFz4D0GIn6Br9g=="
+  crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<script type="text/javascript">
+  function escape(unsafe) {
+    return unsafe
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;")
+      .replace(/'/g, "&#039;");
+  }
+
+  function formatName(account) {
+    let name = escape(account.display_name);
+    account.emojis.forEach(emoji => {
+      name = name.replace(`:${emoji.shortcode}:`,
+        `<img src="${escape(emoji.static_url)}" height="20" width="20" alt="Emoji ${emoji.shortcode}" />`);
+    });
+    return name;
+  }
+
+  function formatComment(comment) {
+    const account = comment.account;
+    return `
+      <div class="mastodon-comment">
+        <img src="${escape(account.avatar_static)}" height=48 width=48 alt="">
+        <div class="content">
+          <div class="header">
+            <div class="author">
+              ${formatName(account)}
+              (<a href="${account.url}">@${escape(account.acct)}</a>)
+            </div>
+            <div class="timestamp">
+              <a class="date" href="${comment.uri}">${moment(comment.created_at).fromNow()}</a>
+            </div>
+          </div>
+          ${comment.content}
+        </div>
+      </div>
+    `
+  }
+
+  function renderComment(comment) {
+    document
+      .getElementById('mastodon-comments')
+      .appendChild(DOMPurify.sanitize(
+        formatComment(comment),
+        { 'RETURN_DOM_FRAGMENT': true }))
+  }
+</script>
+
+<script type="text/javascript">
+  fetch('https://{{ .host }}/api/v1/statuses/{{ .id }}/context')
+    .then(response => response.json())
+    .then(data => data['descendants']?.forEach(renderComment));
+</script>
+
+<style>
+  .mastodon-comment {
+    display: flex;
+    margin: 1em 0;
+    font-size: 0.7em;
+    gap: 1em;
+  }
+
+  .mastodon-comment>img {
+    border-radius: 4px;
+    height: 100%;
+  }
+
+  .mastodon-comment>.content {
+    width: 100%;
+    line-height: 1.5em;
+  }
+
+  .mastodon-comment .header {
+    display: flex;
+  }
+
+  .mastodon-comment .header * {
+    color: #888;
+  }
+
+  .mastodon-comment .header .author {
+    flex-grow: 1;
+  }
+
+  .mastodon-comment p {
+    margin: 0.5em 0;
+  }
+
+  .mastodon-embed {
+    display: block;
+    margin: 1em auto;
+    border: none;
+    width: 600px;
+
+    max-width: 100%;
+  }
+
+</style>
+
+{{ end }}
