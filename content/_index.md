@@ -100,18 +100,18 @@ sections:
     content:
       title: Recent Posts
       subtitle: My random ramblings...
-      count: 1 # TODO: Update this once I have more posts
+      count: 2 # TODO: Update this once I have more posts
       filters:
         folders:
           - posts
-      sort_by: 'Date'
+      sort_by: Date
       sort_ascending: false
       archive:
         enable: true
         text: All posts
         link: posts
     design:
-      columns: "2"
+      columns: '2'
       view: compact
 
   - block: collection
@@ -123,14 +123,14 @@ sections:
         folders:
           - publications
         featured_only: true
-      sort_by: 'Date'
+      sort_by: Date
       sort_ascending: true
       archive:
         enable: true
         text: All publications
         link: publications
     design:
-      columns: "2"
+      columns: '2'
       view: compact
 
   - block: tag_cloud
