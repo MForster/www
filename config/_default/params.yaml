@@ -7,8 +7,8 @@ appearance:
 
 features:
   syntax_highlighter:
-    theme_light: dracula
-    theme_dark: dracula
+    theme_light: base16-mike
+    theme_dark: base16-mike
   comment:
     provider: mastodon
 
