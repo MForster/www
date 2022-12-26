@@ -11,6 +11,8 @@ features:
     theme_dark: base16-mike
   comment:
     provider: mastodon
+  privacy_pack:
+    enable: false
 
 locale:
   date_format: 2006-01-02
@@ -18,5 +20,9 @@ locale:
 
 publications:
   citation_style: mla
+
+marketing:
+  analytics:
+    google_analytics: G-W2EPD660VT
 
 i_am_a_sponsor: true
