@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Michael Forster</title><link>https://michael.forster.pro/</link><atom:link href="https://michael.forster.pro/index.xml" rel="self" type="application/rss+xml"/><description>Michael Forster</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Dec 2022 00:00:00 +0000</lastBuildDate><image><url>https://michael.forster.pro/media/icon_hu5c8c70ccc479e94e8864e2f432562923_202732_512x512_fill_lanczos_center_3.png</url><title>Michael Forster</title><link>https://michael.forster.pro/</link></image><item><title>Hosting my own Mastodon instance</title><link>https://michael.forster.pro/post/mastodon-selfhost/</link><pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate><guid>https://michael.forster.pro/post/mastodon-selfhost/</guid><description>&lt;p>Here are a few thoughts about self-hosting my own
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Michael Forster</title><link>https://michael.forster.pro/</link><atom:link href="https://michael.forster.pro/index.xml" rel="self" type="application/rss+xml"/><description>Michael Forster</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Dec 2022 00:00:00 +0000</lastBuildDate><image><url>https://michael.forster.pro/media/icon_hu5c8c70ccc479e94e8864e2f432562923_202732_512x512_fill_lanczos_center_3.png</url><title>Michael Forster</title><link>https://michael.forster.pro/</link></image><item><title>Automatically add Google Meet to Google Calendar events</title><link>https://michael.forster.pro/post/auto-google-meet/</link><pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate><guid>https://michael.forster.pro/post/auto-google-meet/</guid><description>&lt;p>I usually have my virtual meetings over &lt;a href="https://meet.google.com/" target="_blank" rel="noopener">Google Meet&lt;/a>.
+Unfortunately, I keep forgetting to click the &amp;ldquo;Add Google Meet&amp;rdquo; button in
+&lt;a href="https://calendar.google.com/" target="_blank" rel="noopener">Google Calendar&lt;/a> when scheduling meetings. Then
+it&amp;rsquo;s often a scramble to agree on a meet link before the meeting starts.&lt;/p>
+&lt;p>The public instance of Google Calendar has a setting to automatically add Google
+Meet to events you create (under Settings &amp;gt; General &amp;gt; Event Settings):&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Google Calendar setting &amp;amp;ldquo;Automatically add Google Meet video conferences to
+events I create&amp;amp;rdquo;" srcset="
+/post/auto-google-meet/calendar-setting_huf51fcf71cd12e4db3757cf3d21cde558_32351_dcc4dec9e8ff468b9e3893dd8f36838a.webp 400w,
+/post/auto-google-meet/calendar-setting_huf51fcf71cd12e4db3757cf3d21cde558_32351_24f613a8de659b103fb90efe29aa3d8d.webp 760w,
+/post/auto-google-meet/calendar-setting_huf51fcf71cd12e4db3757cf3d21cde558_32351_1200x1200_fit_q95_h2_lanczos_3.webp 1200w"
+src="https://michael.forster.pro/post/auto-google-meet/calendar-setting_huf51fcf71cd12e4db3757cf3d21cde558_32351_dcc4dec9e8ff468b9e3893dd8f36838a.webp"
+width="760"
+height="30"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>Unfortunately, if you&amp;rsquo;re on a Google Workspace account, your administrator can
+remove this setting.&lt;/p>
+&lt;p>So, I wrote a user script to click the &amp;ldquo;Add Google Meet&amp;rdquo; button for me
+automatically. It&amp;rsquo;s a bit hacky, but it works.&lt;/p>
+&lt;script type="application/javascript" src="https://gist.github.com/MForster/b0314eab4b2dd20869c96ee0d8c45f09.js">&lt;/script>
+&lt;h2 id="installation">Installation&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>The easiest way to install this script in your browser is using a user script
+manager. If you have &lt;a href="https://www.tampermonkey.net/" target="_blank" rel="noopener">Tampermonkey&lt;/a> installed,
+just click on the &amp;ldquo;view raw&amp;rdquo; link at the bottom right of the embedded Gist
+above.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Chrome can also install user scripts directly from GitHub. Download the file and
+drag it onto the Chrome extensions page (&lt;code>chrome://extensions&lt;/code>).&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>I&amp;rsquo;ve only tested this on Google Chrome. Let me know if it works on other
+browsers or with user script managers other than Tampermonkey.&lt;/p>
+&lt;p>Also, note that this won&amp;rsquo;t work if you&amp;rsquo;re using Google Calendar in a different
+language than English.&lt;/p></description></item><item><title>Hosting my own Mastodon instance</title><link>https://michael.forster.pro/post/mastodon-selfhost/</link><pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate><guid>https://michael.forster.pro/post/mastodon-selfhost/</guid><description>&lt;p>Here are a few thoughts about self-hosting my own
 &lt;a href="https://joinmastodon.org/" target="_blank" rel="noopener">Mastodon&lt;/a> instance, why I do it, how I do it, and
 how it is going.&lt;/p>
 &lt;p>Spoiler: It&amp;rsquo;s not hard, and I like it so far.&lt;/p>
