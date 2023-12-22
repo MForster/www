@@ -3,7 +3,7 @@ title: Dr. Michael Forster
 
 superuser: true
 
-role: Principal Software Engineer
+role: Engineering Director
 organizations:
   - name: Celonis
     url: https://celonis.com

@@ -17,11 +17,19 @@ sections:
       title: Experience
       date_format: Jan 2006
       items:
+        - title: Engineering Director
+          company: Celonis
+          company_url: https://www.celonis.com/
+          company_logo: celonis
+          location: Munich, Germany
+          date_start: 2023-12-21
+
         - title: Principal Software Engineer
           company: Celonis
           company_url: https://www.celonis.com/
           company_logo: celonis
           location: Munich, Germany
+          date_end: 2023-12-21
           date_start: 2022-07-01
 
         - title: Senior Staff Software Engineer
