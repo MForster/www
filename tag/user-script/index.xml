@@ -22,7 +22,7 @@ loading="lazy" data-zoomable />&lt;/div>
 remove this setting.&lt;/p>
 &lt;p>So, I wrote a user script to click the &amp;ldquo;Add Google Meet&amp;rdquo; button for me
 automatically. It&amp;rsquo;s a bit hacky, but it works.&lt;/p>
-&lt;script type="application/javascript" src="https://gist.github.com/MForster/b0314eab4b2dd20869c96ee0d8c45f09.js">&lt;/script>
+&lt;script src="https://gist.github.com/MForster/b0314eab4b2dd20869c96ee0d8c45f09.js">&lt;/script>
 &lt;h2 id="installation">Installation&lt;/h2>
 &lt;ul>
 &lt;li>
