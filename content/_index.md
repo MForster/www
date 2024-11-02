@@ -17,12 +17,20 @@ sections:
       title: Experience
       date_format: Jan 2006
       items:
+        - title: Principal Software Engineer
+          company: Google
+          company_url: http://www.google.com
+          company_logo: google
+          location: Munich, Germany
+          date_start: 2024-11-01
+        
         - title: Engineering Director
           company: Celonis
           company_url: https://www.celonis.com/
           company_logo: celonis
           location: Munich, Germany
           date_start: 2023-12-21
+          date_end: 2024-10-31
 
         - title: Principal Software Engineer
           company: Celonis
